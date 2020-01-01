@@ -1,0 +1,6 @@
+config BR2_PACKAGE_FACEGAME
+	bool "Facegame"
+	select BR2_PACKAGE_SDL2
+	help
+	  Facegame
+	  https://github.com/computermouth/facegame

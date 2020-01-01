@@ -10,6 +10,7 @@ comment "Frontends"
 comment "Games"
 	source "$BR2_EXTERNAL/package/gng/Config.in"
 	source "$BR2_EXTERNAL/package/hocoslamfy/Config.in"
+	source "$BR2_EXTERNAL/package/facegame/Config.in"
 
 comment "Libraries"
 	source "$BR2_EXTERNAL/package/allegro/Config.in"
